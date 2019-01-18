@@ -1,0 +1,12 @@
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\bin\Debug\Color detection.exe.config
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\bin\Debug\Color detection.exe
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\bin\Debug\Color detection.pdb
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\obj\Debug\Color detection.csprojResolveAssemblyReference.cache
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\obj\Debug\Color_detection.Form1.resources
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\obj\Debug\Color_detection.Properties.Resources.resources
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\obj\Debug\Color detection.csproj.GenerateResource.Cache
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\obj\Debug\Color detection.exe
+c:\users\ariphuz xaman tanin\documents\visual studio 2013\Projects\Color detection\Color detection\obj\Debug\Color detection.pdb
+C:\Users\Ariphuz Xaman Tanin\Desktop\New folder\6\Color detection\Color detection\bin\Debug\Color detection.exe.config
+C:\Users\Ariphuz Xaman Tanin\Desktop\New folder\6\Color detection\Color detection\obj\Debug\Color detection.exe
+C:\Users\Ariphuz Xaman Tanin\Desktop\New folder\6\Color detection\Color detection\obj\Debug\Color detection.pdb
